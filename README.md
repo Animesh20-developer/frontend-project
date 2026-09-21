@@ -1,3 +1,4 @@
 # frontend-project
 
-Animesh Dutta
+author-Animesh Dutta
+email-duttaanimesh872@gmail.com
